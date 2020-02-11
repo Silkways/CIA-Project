@@ -1,0 +1,229 @@
+﻿Index,Country,Net_Migration_Rate,Year,
+1,Syria,27.1,2020,est.
+2,British Virgin Islands,15.5,2020,est.
+3,Luxembourg,13.3,2020,est.
+4,Cayman Islands,13,2020,est.
+5,Singapore,11.8,2020,est.
+6,Anguilla,11.1,2020,est.
+7,Bahrain,10.6,2020,est.
+8,Turks and Caicos Islands,8.9,2020,est.
+9,Aruba,8.4,2020,est.
+10,Monaco,8.3,2020,est.
+11,Australia,8.1,2020,est.
+12,New Zealand,8,2020,est.
+13,Cyprus,7.6,2020,est.
+14,United Arab Emirates,7.6,2020,est.
+15,Spain,7,2020,est.
+16,Malta,6.6,2020,est.
+17,San Marino,6.6,2020,est.
+18,Qatar,6.5,2020,est.
+19,Sint Maarten,6,2020,est.
+20,Canada,5.6,2020,est.
+21,Isle of Man,5.2,2020,est.
+22,Sweden,5.2,2020,est.
+23,Djibouti,5.1,2020,est.
+24,Liechtenstein,4.9,2020,est.
+25,Western Sahara,4.9,2020,est.
+26,Belgium,4.8,2020,est.
+27,Saudi Arabia,4.7,2020,est.
+28,Switzerland,4.6,2020,est.
+29,Norway,4,2020,est.
+30,Gabon,3.9,2020,est.
+31,Ireland,3.9,2020,est.
+32,New Caledonia,3.8,2020,est.
+33,Austria,3.6,2020,est.
+34,Iceland,3.3,2020,est.
+35,Macau,3.3,2020,est.
+36,Italy,3.2,2020,est.
+37,United States,3,2020,est.
+38,Botswana,2.9,2020,est.
+39,Denmark,2.8,2020,est.
+40,Finland,2.6,2020,est.
+41,United Kingdom,2.5,2020,est.
+42,Brunei,2.3,2020,est.
+43,Czechia,2.3,2020,est.
+44,Jersey,2.3,2020,est.
+45,"Korea, South",2.3,2020,est.
+46,Ukraine,2.3,2020,est.
+47,Antigua and Barbuda,2.1,2020,est.
+48,Israel,2.1,2020,est.
+49,Guernsey,1.9,2020,est.
+50,Netherlands,1.9,2020,est.
+51,Hong Kong,1.7,2020,est.
+52,Russia,1.7,2020,est.
+53,Bermuda,1.6,2020,est.
+54,Germany,1.5,2020,est.
+55,Slovenia,1.5,2020,est.
+56,Hungary,1.3,2020,est.
+57,Cote d'Ivoire,1.2,2020,est.
+58,Saint Kitts and Nevis,1.2,2020,est.
+59,France,1.1,2020,est.
+60,Seychelles,1,2020,est.
+61,Greece,0.9,2020,est.
+62,Palau,0.9,2020,est.
+63,Costa Rica,0.8,2020,est.
+64,Taiwan,0.8,2020,est.
+65,Belarus,0.7,2020,est.
+66,Suriname,0.5,2020,est.
+67,Kazakhstan,0.4,2020,est.
+68,Macedonia,0.4,2020,est.
+69,Benin,0.3,2020,est.
+70,Chile,0.3,2020,est.
+71,Portugal,0.3,2020,est.
+72,Slovakia,0.2,2020,est.
+73,South Sudan,0.2,2020,est.
+74,Georgia,0.1,2020,est.
+75,Andorra,0,2020,est.
+76,Azerbaijan,0,2020,est.
+77,"Bahamas, The",0,2020,est.
+78,Bhutan,0,2020,est.
+79,Central African Republic,0,2020,est.
+80,Ecuador,0,2020,est.
+81,Equatorial Guinea,0,2020,est.
+82,Faroe Islands,0,2020,est.
+83,Guinea,0,2020,est.
+84,Guyana,0,2020,est.
+85,India,0,2020,est.
+86,Japan,0,2020,est.
+87,"Korea, North",0,2020,est.
+88,Madagascar,0,2020,est.
+89,Malawi,0,2020,est.
+90,Mauritius,0,2020,est.
+91,Montserrat,0,2020,est.
+92,Namibia,0,2020,est.
+93,Papua New Guinea,0,2020,est.
+94,"Saint Helena, Ascension, and Tristan da Cunha",0,2020,est.
+95,Serbia,0,2020,est.
+96,Thailand,0,2020,est.
+97,Togo,0,2020,est.
+98,Zambia,0,2020,est.
+99,Afghanistan,-0.1,2020,est.
+100,Argentina,-0.1,2020,est.
+101,Brazil,-0.1,2020,est.
+102,Chad,-0.1,2020,est.
+103,Panama,-0.1,2020,est.
+104,Paraguay,-0.1,2020,est.
+105,Angola,-0.2,2020,est.
+106,Ethiopia,-0.2,2020,est.
+107,Kenya,-0.2,2020,est.
+108,Nigeria,-0.2,2020,est.
+109,Romania,-0.2,2020,est.
+110,South Africa,-0.2,2020,est.
+111,Yemen,-0.2,2020,est.
+112,Barbados,-0.3,2020,est.
+113,Bolivia,-0.3,2020,est.
+114,Bulgaria,-0.3,2020,est.
+115,Cambodia,-0.3,2020,est.
+116,Cameroon,-0.3,2020,est.
+117,Egypt,-0.3,2020,est.
+118,Iran,-0.3,2020,est.
+119,Malaysia,-0.3,2020,est.
+120,Poland,-0.3,2020,est.
+121,Vietnam,-0.3,2020,est.
+122,Bosnia and Herzegovina,-0.4,2020,est.
+123,China,-0.4,2020,est.
+124,Oman,-0.4,2020,est.
+125,Sudan,-0.4,2020,est.
+126,Tanzania,-0.4,2020,est.
+127,Iraq,-0.5,2020,est.
+128,Burkina Faso,-0.6,2020,est.
+129,Cabo Verde,-0.6,2020,est.
+130,Colombia,-0.6,2020,est.
+131,French Polynesia,-0.7,2020,est.
+132,Libya,-0.7,2020,est.
+133,Niger,-0.7,2020,est.
+134,Burundi,-0.8,2020,est.
+135,Mauritania,-0.8,2020,est.
+136,Mongolia,-0.8,2020,est.
+137,Algeria,-0.9,2020,est.
+138,"Congo, Democratic Republic of the",-0.9,2020,est.
+139,"Congo, Republic of the",-0.9,2020,est.
+140,Pakistan,-0.9,2020,est.
+141,Uruguay,-0.9,2020,est.
+142,Belize,-1,2020,est.
+143,Croatia,-1,2020,est.
+144,Laos,-1,2020,est.
+145,Indonesia,-1.1,2020,est.
+146,Tajikistan,-1.1,2020,est.
+147,Sierra Leone,-1.2,2020,est.
+148,Curacao,-1.3,2020,est.
+149,Senegal,-1.3,2020,est.
+150,Sri Lanka,-1.3,2020,est.
+151,Vanuatu,-1.3,2020,est.
+152,Burma,-1.4,2020,est.
+153,Honduras,-1.4,2020,est.
+154,Tunisia,-1.4,2020,est.
+155,"Gambia, The",-1.6,2020,est.
+156,Ghana,-1.6,2020,est.
+157,Solomon Islands,-1.6,2020,est.
+158,Guatemala,-1.7,2020,est.
+159,Mozambique,-1.7,2020,est.
+160,Saint Lucia,-1.7,2020,est.
+161,Turkmenistan,-1.7,2020,est.
+162,Kosovo,-1.8,2020,est.
+163,Peru,-1.8,2020,est.
+164,Philippines,-1.8,2020,est.
+165,Haiti,-1.9,2020,est.
+166,Mexico,-1.9,2020,est.
+167,Morocco,-1.9,2020,est.
+168,Uzbekistan,-1.9,2020,est.
+169,Comoros,-2.3,2020,est.
+170,Nicaragua,-2.4,2020,est.
+171,Grenada,-2.6,2020,est.
+172,Dominican Republic,-2.7,2020,est.
+173,Kiribati,-2.8,2020,est.
+174,Liberia,-2.9,2020,est.
+175,Bangladesh,-3,2020,est.
+176,Saint Barthelemy,-3,2020,est.
+177,Estonia,-3.1,2020,est.
+178,Nepal,-3.1,2020,est.
+179,Albania,-3.3,2020,est.
+180,Gibraltar,-3.3,2020,est.
+181,Kuwait,-3.3,2020,est.
+182,Rwanda,-3.3,2020,est.
+183,Venezuela,-3.4,2020,est.
+184,Uganda,-3.5,2020,est.
+185,Cuba,-3.7,2020,est.
+186,Guinea-Bissau,-3.8,2020,est.
+187,Somalia,-3.8,2020,est.
+188,Mali,-3.9,2020,est.
+189,Timor-Leste,-3.9,2020,est.
+190,West Bank,-4.2,2020,est.
+191,Turkey,-4.3,2020,est.
+192,Wallis and Futuna,-4.3,2020,est.
+193,Marshall Islands,-4.5,2020,est.
+194,Gaza Strip,-4.7,2020,est.
+195,El Salvador,-4.8,2020,est.
+196,Montenegro,-4.9,2020,est.
+197,Kyrgyzstan,-5,2020,est.
+198,Zimbabwe,-5,2020,est.
+199,Dominica,-5.3,2020,est.
+200,Trinidad and Tobago,-5.4,2020,est.
+201,Armenia,-5.5,2020,est.
+202,Latvia,-5.9,2020,est.
+203,Lithuania,-5.9,2020,est.
+204,Greenland,-6,2020,est.
+205,Saint Martin,-6,2020,est.
+206,Lesotho,-6.1,2020,est.
+207,Fiji,-6.2,2020,est.
+208,Tuvalu,-6.5,2020,est.
+209,Eswatini,-6.8,2020,est.
+210,Saint Vincent and the Grenadines,-7.2,2020,est.
+211,Virgin Islands,-7.5,2020,est.
+212,Saint Pierre and Miquelon,-7.7,2020,est.
+213,Sao Tome and Principe,-7.9,2020,est.
+214,Samoa,-8.1,2020,est.
+215,Moldova,-9,2020,est.
+216,Jamaica,-9.4,2020,est.
+217,Guam,-11,2020,est.
+218,Jordan,-11.3,2020,est.
+219,Nauru,-11.3,2020,est.
+220,Eritrea,-11.6,2020,est.
+221,Maldives,-12.7,2020,est.
+222,Puerto Rico,-14.1,2020,est.
+223,Northern Mariana Islands,-15.4,2020,est.
+224,Tonga,-17.9,2020,est.
+225,"Micronesia, Federated States of",-20.9,2020,est.
+226,American Samoa,-26.1,2020,est.
+227,Cook Islands,-29.9,2020,est.
+228,Lebanon,-88.7,2020,est.
