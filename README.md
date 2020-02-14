@@ -1,6 +1,11 @@
 # Continent Intelligence Study 
 
+
+
+
 EXECUTIVE SUMMARY
+
+
 
 Aims and Objectives 
 
@@ -35,15 +40,25 @@ The present study comprises a comparative analysis across the continents regardi
 Hypotheses 
 
 H1 – There are continental differences in CO2 emissions 
+
 H0 – There are no differences in CO2 emissions 
+
 H2- There are continental differences in renewable energy production 
+
 H0 – There are no differences in renewable energy production
+
 H3 - There are continental differences military expenditure 
+
 H0 – There are no continental differences military expenditure
+
 H4 – There are continental differences in internet usage 
+
 H0 – There are no continental differences in the internet usage
+
 H5 – There are continental differences in daily petroleum consumption 
+
 H0 – There are no continental differences in daily petroleum consumption
+
 
 Methodology 
 
